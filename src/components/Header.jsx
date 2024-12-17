@@ -13,7 +13,7 @@ const Header = () => {
         
         <div className="hover:text-red-500 hover:cursor-pointer bg-neutral-600 rounded-md px-4  ">
           <Link to="/portfolio">
-            Portfolio template
+            portfolio
           </Link>
         </div>
       
