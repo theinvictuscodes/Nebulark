@@ -1,5 +1,5 @@
 import React from "react";
-import E from "./Elements/E";
+
 import { getElements } from "./Util";
 
 const Home = () => {
@@ -7,15 +7,15 @@ const Home = () => {
   return (
     <>
       <div className="flex flex-col justify-center items-center gap-y-6 ">
-        <div className="mt-6 text-2xl text-neutral-700">
+        <div className="mt-6 text-2xl text-neutral-700 text-center">
           by the invictus
         </div>
 
-        <div className="md:text-5xl text-2xl font-extrabold bg-gradient-to-r from-red-600 to-blue-700 bg-clip-text text-transparent">
+        <div className=" md:text-5xl text-2xl font-extrabold bg-gradient-to-r from-red-600 to-blue-700 bg-clip-text text-transparent">
           portfolio and website templates
         </div>
 
-        <div className="text-xl text-white">
+        <div className="text-xl text-center text-white">
           browse, clone and customize your websites
         </div>
 
