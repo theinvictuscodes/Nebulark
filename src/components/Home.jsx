@@ -12,7 +12,9 @@ const Home = () => {
           by the invictus
         </div>
 
-        <div className="mx-auto text-centre md:text-5xl text-2xl font-extrabold bg-gradient-to-r from-red-600 to-blue-700 bg-clip-text text-transparent">
+        <div className="text-xl text-center text-white"
+        //  className="mx-auto text-centre md:text-5xl text-2xl font-extrabold bg-gradient-to-r from-red-600 to-blue-700 bg-clip-text text-transparent"
+        >
           portfolio and website templates
         </div>
 
