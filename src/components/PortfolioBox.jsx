@@ -2,7 +2,7 @@ import React from "react";
 
 const PortfolioBox = ({ data }) => {
   return (
-    <div className="morphic  rounded-xl w-[350px] h-[300px]   text-white flex flex-col justify-start items-start" >
+    <div className="morphic pb-5 rounded-xl w-[350px] h-[300px]   text-white flex flex-col justify-start items-start" >
       
       <div className="p-1 rounded-t-xl overflow-hidden w-[348px] h-[210px] border-b-[1px] border-white ">
         <img className="rounded-t-[5px] w-full h-full object-top" src={data.image} alt="" />
