@@ -11,7 +11,7 @@ const Home = () => {
           by the invictus
         </div>
 
-        <div className=" md:text-5xl text-2xl font-extrabold bg-gradient-to-r from-red-600 to-blue-700 bg-clip-text text-transparent">
+        <div className="text-centre md:text-5xl text-2xl font-extrabold bg-gradient-to-r from-red-600 to-blue-700 bg-clip-text text-transparent">
           portfolio and website templates
         </div>
 
@@ -21,7 +21,7 @@ const Home = () => {
 
         <div className="w-[80%] mt-10 h-[1px] bg-red-800 "></div>
 
-        <div className="md:mt-20 mt-14 p-10 md:text-2xl text-xl  text-neutral-300 text-center" >
+        <div className="md:mt-20 mt-5 p-10 md:text-2xl text-lg  text-neutral-300 text-center" >
         Create stunning websites with our high-quality, customizable components, including headers, buttons, forms, and more. Whether you need individual elements or a fully personalized portfolio website, we deliver fast, affordable solutions using modern technologies like React and TailwindCSS. Build your dream site today with our expert designs!
         </div>
 
