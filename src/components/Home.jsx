@@ -6,13 +6,14 @@ const Home = () => {
   const data = getElements();
   return (
     <>
-      <div className="flex flex-col justify-center items-center gap-y-6 ">
+      <div className="flex flex-col justify-center items-center gap-y-6 px-4 ">
 
         <div className="mt-6 text-2xl text-neutral-700 text-center">
           by the invictus
         </div>
 
-        <div className="text-xl text-center text-white"
+        <div
+         className="text-2xl text-center  bg-gradient-to-r from-red-600 to-blue-700 bg-clip-text text-transparent "
         //  className="mx-auto text-centre md:text-5xl text-2xl font-extrabold bg-gradient-to-r from-red-600 to-blue-700 bg-clip-text text-transparent"
         >
           portfolio and website templates
